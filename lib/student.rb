@@ -21,6 +21,8 @@ def self.create_table
   grade INTEGER
   )
   SQL
+  
+  
 end
 
 end
