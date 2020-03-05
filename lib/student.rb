@@ -13,7 +13,7 @@ end
 def self.create_table
   sql = <<-SQL
   CREATE TABLE IF NOT EXIST students (
-  ID)
+  id INTEGER PRIMARY ID)
   
 end
 
