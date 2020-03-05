@@ -17,7 +17,7 @@ def self.create_table
   name TEXT,
   grade INTEGER
   )
-  
+  SQL
 end
 
 end
